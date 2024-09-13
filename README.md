@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iturnmyscreenon" alt="iturnmyscreenon" /></a> </p>
 
-- 🔭 I’m currently working on [Externatic](https://github.com/iturnmyscreenon/2022-09-JS-Reims-project-3-externatic)
+- 🔭 I’m currently working at ENERGIES DE LOIRE
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 📫 How to reach me **benoit.galey@gmail.com**
 
